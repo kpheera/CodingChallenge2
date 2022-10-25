@@ -1,0 +1,22 @@
+/* div{
+    column-gap: 40px;
+} */
+
+.card{
+    background-color: #f5f5f5;
+    box-shadow: rgb(0 0 0 / 16%) 0px 3px 6px, rgb(0 0 0 / 23%) 0px 3px 6px;
+}
+
+.detail{
+    margin: 70px;
+}
+
+.card-text{
+    margin-top: 20px;
+}
+
+.graphicContainer{
+    text-align: center;
+    font-size: 30px;
+    font-family: fantasy;
+}
